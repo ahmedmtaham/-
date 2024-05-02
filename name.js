@@ -1,4 +1,4 @@
-const validNames = ["deema tamer", "loai tamer"];
+const validNames = ["deema tamer", "loai tamer", "mostafa mahmoud"];
 const error = document.querySelector('.error'); // Selects first element with the class
 
 // Get a reference to the form
